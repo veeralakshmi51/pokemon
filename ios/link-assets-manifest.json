@@ -1,0 +1,365 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-Black.ttf",
+      "sha1": "a001eb827743636e04f8efa7d4aeedf0541c46ac"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-BlackItalic.ttf",
+      "sha1": "b490ec02c69bb74f5b4f487c59e984891c8da71c"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-BoldItalic.ttf",
+      "sha1": "6bf491e78e16d3b9c8a55752e1bd658e15ed7f19"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-Italic.ttf",
+      "sha1": "190187b720ec2f2ff2e4281237e301000e09673f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-Light.ttf",
+      "sha1": "ad0d178564445a535b15d417f5b18019923d3bab"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-LightItalic.ttf",
+      "sha1": "34388d9a3b64380c9f08d424d0adaa88a0d1650a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-Thin.ttf",
+      "sha1": "07290446bee3f81ce501a3c3dbfde6097c70ca15"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/Lato-ThinItalic.ttf",
+      "sha1": "ff4a1a9fe2dcc41d993f4c5067a3baa1c456ff97"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Lato/OFL.txt",
+      "sha1": "8414f6d5e907adb8e95e5a737a0a6fc98a134ddb"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/Oswald-VariableFont_wght.ttf",
+      "sha1": "83708d011b4d9bab0f4e275cf22b588558037a79"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/README.txt",
+      "sha1": "4a5558e3dfaf2d637241331a0e81832601c6e19f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/static/Oswald-Bold.ttf",
+      "sha1": "6e78c90d65a6133d979daebc1255d2f560a97c79"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/static/Oswald-ExtraLight.ttf",
+      "sha1": "ac9323c6f3e5965bbeee4c57db7b78d8d67c9d1b"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/static/Oswald-Light.ttf",
+      "sha1": "18b6fe10677763e882985371a015bdc45ec2943c"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/static/Oswald-Medium.ttf",
+      "sha1": "70e75da33d777c839cf59cb042adf7fc5fa0235a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/static/Oswald-Regular.ttf",
+      "sha1": "06aae8f5a28908ba8eca0d5bdc01cedc2a184a5f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Oswald/static/Oswald-SemiBold.ttf",
+      "sha1": "10d1c319ab0685f35f3c9eb87a9524de0560345e"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf",
+      "sha1": "4308eea3f3cecfec12d6589ec458cb9745d815c5"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf",
+      "sha1": "2fcb048a917b7607887df262ee3742a50264c764"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-Black.ttf",
+      "sha1": "8447710fac88b58e7f3b6f034ceda7eb3a036f4c"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-BlackItalic.ttf",
+      "sha1": "ea79a434bf4c907e18f51823de5c0ccce89ecf0c"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-Bold.ttf",
+      "sha1": "fb74d7e889a2c24dc08d5b931c620d47e607d11a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-BoldItalic.ttf",
+      "sha1": "20080e453bfd141821b7686f516993b6d812113e"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-ExtraBold.ttf",
+      "sha1": "a65d3cc7e11169ae1bfc88db81005077afd020d2"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-ExtraBoldItalic.ttf",
+      "sha1": "c72c7e1a0582b0c8a65327b35dfdabff2e4744a7"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-Italic.ttf",
+      "sha1": "dd11369827ff1e0ba4071a275c5b3645b1ce6486"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-Medium.ttf",
+      "sha1": "8bf13110d20940f886ae02a07ec6068f4028740d"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-MediumItalic.ttf",
+      "sha1": "c01f61ddb79e4cef74325f043731143af3190919"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-Regular.ttf",
+      "sha1": "96a2e660869a872971935d18105d64eadd693ddb"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-SemiBold.ttf",
+      "sha1": "b50e2c15ddb338b15f08df6c2c37ce35f698148f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Playfair_Display/static/PlayfairDisplay-SemiBoldItalic.ttf",
+      "sha1": "a8d06a7536ea96a72e38112a2fcadf19504b0093"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-BoldItalic.ttf",
+      "sha1": "6de8952ca08d27ee77f57347d2cef4b4e26aa78f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-ExtraLightItalic.ttf",
+      "sha1": "6fa0418f91032680d2d8fe4843009f2c80faa61d"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-LightItalic.ttf",
+      "sha1": "f76102b361e705751a83b7b22fe954daf1f27dd4"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Poppins/Poppins-ThinItalic.ttf",
+      "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/LICENSE.txt",
+      "sha1": "47b573e3824cd5e02a1a3ae99e2735b49e0256e4"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-BlackItalic.ttf",
+      "sha1": "03d6e3747d862385dbe48e8296385b9236101a62"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-BoldItalic.ttf",
+      "sha1": "2f10ad9e8cab0880182705c4e0fbaeabae706e64"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-LightItalic.ttf",
+      "sha1": "6e01f9df9449565697032b002706a94b51862bbe"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-MediumItalic.ttf",
+      "sha1": "b3aa2d8f16d5a331fdced82f213a052b204eaca0"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto/Roboto-ThinItalic.ttf",
+      "sha1": "cc79d5a23bd0ec08b1d99f5390bf33cacc3082f4"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf",
+      "sha1": "607b11807d40548c02c58df35567675ef3dfd2eb"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-Black.ttf",
+      "sha1": "f3b1bdd1676dff204f659634c1a29c109cbc238a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-Bold.ttf",
+      "sha1": "e1e5ce44825aa846d38fb41a33cfc070acfd00f5"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-ExtraBold.ttf",
+      "sha1": "925e7a6676465c203874bd04020338a664967c8a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-ExtraLight.ttf",
+      "sha1": "0b76c8b012f4406239aeb97fabe5e15e66818337"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-Light.ttf",
+      "sha1": "e66c270226ac03201aba70d27cec7e4680f2aeab"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-Medium.ttf",
+      "sha1": "25663f37e1c85471b95cab8c5dd06948388b0bd3"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-Regular.ttf",
+      "sha1": "a596c45dd9bf15341eefb7dde7fc8422a5dc7056"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-SemiBold.ttf",
+      "sha1": "bd19091f6cab3369e9ad67f8d8f2dd79936a6c07"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Roboto_Slab/static/RobotoSlab-Thin.ttf",
+      "sha1": "2a1ccd29e72aeefc8cba07576111fbf54b716496"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/Rubik-Italic-VariableFont_wght.ttf",
+      "sha1": "90ca1b88e059422427a59b46d52877d66d6fdc81"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/Rubik-VariableFont_wght.ttf",
+      "sha1": "80fbecd6d6cb21096b3e0277222e696c77ceb7eb"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-Black.ttf",
+      "sha1": "1d564ff40c2506b66fbae8983674fcc6f50332cf"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-BlackItalic.ttf",
+      "sha1": "033e3229f6548d4b9241406f8613217811d1c484"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-Bold.ttf",
+      "sha1": "0b3d2153576f8ec576af1c89e4793a3dcf0ebb0c"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-BoldItalic.ttf",
+      "sha1": "6e13f686165a725698733d40cdc08beaefc60860"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-ExtraBold.ttf",
+      "sha1": "1647fe9245b610f1b5ac101a3234cc3d8f6051b9"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-ExtraBoldItalic.ttf",
+      "sha1": "82b102196902ef73a92db1aa1da90b16c953841a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-Italic.ttf",
+      "sha1": "ddba45e218ec4a1bdff496fcfef9932fa30c82c0"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-Light.ttf",
+      "sha1": "2bc14068c355425f472f6a97b69c5c468bc863a3"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-LightItalic.ttf",
+      "sha1": "a3c49755eadf8edf5b479591720d234feb9caaf0"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-Medium.ttf",
+      "sha1": "7b93e52dc59bc6eb3b374b860c203cbe726c3c31"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-MediumItalic.ttf",
+      "sha1": "1eb6e92dea262c4509cbfb66b8638be630dc639f"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-Regular.ttf",
+      "sha1": "9d7091d63f35c9d28518b06566442a02b306980a"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-SemiBold.ttf",
+      "sha1": "01a4b4fee8dbf9802ccb6256fdf53b3a86f2fcec"
+    },
+    {
+      "path": "assets/fonts/Lato,Oswald,Playfair_Display,Poppins,Roboto,etc/Rubik/static/Rubik-SemiBoldItalic.ttf",
+      "sha1": "d5b3099c28cf63567f3d9eac452fd02fb3721f02"
+    }
+  ]
+}
