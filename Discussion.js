@@ -27,7 +27,7 @@ const Discussion = () => {
       <View style={styles.styleView}>
         <View style={{flexDirection: 'row', justifyContent: 'space-between'}}>
           <Image source={avatar} style={styles.image} />
-          <View style={{rowGap: 5}}>
+          <View style={{rowGap:5}}>
             <Text
               style={{
                 color: 'black',
@@ -36,15 +36,18 @@ const Discussion = () => {
                 right: 10,
               }}>
               Tamizh{' '}
+              <View style={{backgroundColor: '#A5AD78',borderRadius:6}}>
               <Text
                 style={{
                   color: 'white',
-                  backgroundColor: '#A5AD78',
                   fontSize: 15,
+                  fontWeight:'500',
                 }}>
                 {' '}
                 Learner
+                {''}
               </Text>
+              </View>
             </Text>
             <Text style={{right:10}}>Business,Chidambaram</Text>
           </View>
@@ -72,21 +75,23 @@ const Discussion = () => {
                 color: 'black',
                 fontWeight: 'bold',
                 fontSize: 18,
-                right: 20,
+                right: 30,
               }}>
               Veeras{' '}
+              <View style={{backgroundColor: '#AD8078',borderRadius:5}}>
               <Text
                 style={{
                   color: 'white',
-                  backgroundColor: '#AD8078',
                   fontSize: 15,
-            
+                  fontWeight:'500',
                 }}>
                 {' '}
-                Admin
+                Admin {''}
               </Text>
+              </View>
+             
             </Text>
-            <Text style={{right:20}}>Founder</Text>
+            <Text style={{right:30}}>Founder</Text>
           </View>
           <View>
             <TouchableOpacity>
@@ -125,21 +130,23 @@ const styles = StyleSheet.create({
     borderColor: '#f5f5f5',
     margin: 10,
     padding: 20,
-    
+
   },
   styleView2: {
     borderColor: '#f5f5f5',
-    margin: 20,
-    padding: 30,
+    margin: 10,
+    padding: 20,
     backgroundColor:'#F8F8F8',
-    borderRadius:8
+    borderRadius:8,
+    marginTop:'auto',
+    
   },
   imageStyle: {
     borderColor: 'white',
     borderRadius: 100,
     height: 50,
     width: 50,
-    right:15,
-  },
+    right:10,
+  }
 });
 export default Discussion;
